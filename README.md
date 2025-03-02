@@ -30,3 +30,5 @@ Tavily Search (Web-enhanced responses)
 Add user authentication
 Improve UI with better design elements
 Extend API support to additional providers
+
+![image_alt](https://github.com/obaiddp/ai_chat_bot/blob/7aadb6f79d260adf307d978dcd096d6ac1c70216/c1.png)
